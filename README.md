@@ -10,13 +10,19 @@ Trabalho com **automação de processos e IA aplicada**: entendo o problema, des
 
 ---
 
-### 🚀 Projeto em destaque
+### 🚀 Projetos em destaque
 
 #### [NEXUS](https://github.com/tamy-commits/nexus-core) — *onboarding de contas empresariais*
 
 Verifica se a documentação de uma empresa está pronta para abertura de conta, com regras determinísticas, evidências auditáveis e revisão humana nos casos que exigem supervisão.
 
 `Python` `FastAPI` `React` `TypeScript` `Docker` · [demo](https://nexus-blueprint-core.lovable.app)
+
+#### [n8n HITL Content Pipeline](https://github.com/tamy-commits/n8n-hitl-content-pipeline) — *agentes de IA com humano no controle*
+
+Três agentes de IA criam posts para redes sociais, e uma pessoa aprova cada etapa. O feedback de cada revisão volta para os agentes, loops sem fim viram escalação e todo desfecho fica registrado para auditoria.
+
+`n8n` `OpenAI` `Human-in-the-Loop` `Google Sheets`
 
 ---
 
