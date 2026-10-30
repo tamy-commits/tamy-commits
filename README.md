@@ -18,12 +18,6 @@ Verifica se a documentação de uma empresa está pronta para abertura de conta,
 
 `Python` `FastAPI` `React` `TypeScript` `Docker` · [demo](https://nexus-blueprint-core.lovable.app)
 
-#### [Consolidador de Relatório Gerencial](https://github.com/tamy-commits/auto-layout-consolidator) — *planejamento*
-
-Aplicativo desktop que lê planilhas Excel com layouts diferentes, reconhece cada formato sozinho, valida, consolida e gera o relatório gerencial em Excel e PDF, com log de auditoria.
-
-`Python` `pandas` `PySide6` `pytest`
-
 #### [n8n Bug Simulator](https://github.com/tamy-commits/n8n-issue-simulations) — *comunidade n8n*
 
 Simulador interativo que reproduz um bug do n8n (`DateTime.fromISO()` retornando *Invalid DateTime* só na execução completa do workflow), para ajudar a comunidade a entender e diagnosticar o problema.
@@ -34,7 +28,7 @@ Simulador interativo que reproduz um bug do n8n (`DateTime.fromISO()` retornando
 
 ### 🛠️ Ferramentas
 
-`Python` · `n8n` · `FastAPI` · `Playwright` · `pandas` · `React` · `TypeScript` · `Docker` · `GitHub Actions`
+`Python` · `n8n` · `FastAPI` · `Playwright` · `React` · `TypeScript` · `Docker` · `GitHub Actions`
 
 ### 🎓 Formação
 
