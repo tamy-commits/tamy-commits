@@ -4,6 +4,8 @@ Gosto de ver ideias saírem do papel e virarem soluções que ajudam pessoas de 
 
 Trabalho com **automação de processos e IA aplicada**: entendo o problema, desenho a solução e garanto que ela funcione — com governança — no mundo real.
 
+**Áreas:** automação de processos · n8n · IA aplicada · governança · soluções com supervisão humana (*Human-in-the-Loop*)
+
 *Building automation and AI solutions that solve real problems.* 🇧🇷 → 🌎
 
 🌱 **Agora:** embaixadora da comunidade **n8n** e começando a compartilhar o que aprendo.
