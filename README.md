@@ -10,19 +10,13 @@ Trabalho com **automação de processos e IA aplicada**: entendo o problema, des
 
 ---
 
-### 🚀 Projetos em destaque
+### 🚀 Projeto em destaque
 
 #### [NEXUS](https://github.com/tamy-commits/nexus-core) — *onboarding de contas empresariais*
 
 Verifica se a documentação de uma empresa está pronta para abertura de conta, com regras determinísticas, evidências auditáveis e revisão humana nos casos que exigem supervisão.
 
 `Python` `FastAPI` `React` `TypeScript` `Docker` · [demo](https://nexus-blueprint-core.lovable.app)
-
-#### [n8n Bug Simulator](https://github.com/tamy-commits/n8n-issue-simulations) — *comunidade n8n*
-
-Simulador interativo que reproduz um bug do n8n (`DateTime.fromISO()` retornando *Invalid DateTime* só na execução completa do workflow), para ajudar a comunidade a entender e diagnosticar o problema.
-
-`HTML` `JavaScript` `n8n`
 
 ---
 
