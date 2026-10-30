@@ -1,14 +1,18 @@
 ## Olá, eu me chamo Tamy 👋
 
+**Especialista em Processos, Projetos, Hiperautomação e IA** · Embaixadora n8n no Brasil
+
 Gosto de ver ideias saírem do papel e virarem soluções que ajudam pessoas de verdade.
 
 Trabalho com **automação de processos e IA aplicada**: entendo o problema, desenho a solução e garanto que ela funcione — com governança — no mundo real.
+
+Hoje atuo na área de Dados e IA, estruturando a governança de automações e soluções de IA — e trabalho com processos desde 2015.
 
 **Áreas:** automação de processos · n8n · IA aplicada · governança · soluções com supervisão humana (*Human-in-the-Loop*)
 
 *Building automation and AI solutions that solve real problems.* 🇧🇷 → 🌎
 
-🌱 **Agora:** embaixadora da comunidade **n8n** e começando a compartilhar o que aprendo.
+🌱 **Agora:** embaixadora da comunidade **n8n no Brasil** e começando a compartilhar o que aprendo.
 
 ---
 
@@ -34,7 +38,9 @@ Três agentes de IA criam posts para redes sociais, e uma pessoa aprova cada eta
 
 ### 🎓 Formação
 
-Pós-graduação em Gerenciamento de Projetos (PUC-Rio) · Professional Scrum Master I (PSM I) · Lean Six Sigma Green Belt · Google Project Management Certificate
+**Especializações (PUC Minas):** Gerenciamento de Projetos (PMI) · Automação de Processos RPA e Hiperautomação · Desenvolvimento Full Stack<br>
+**Graduação:** Processos Gerenciais (Estácio)<br>
+**Certificações:** Lean Six Sigma Green Belt · Professional Scrum Master I (PSM I) · Scrum Fundamentals Certified (SFC) · Google Project Management Certificate · Automation Anywhere Essentials Automation Professional · DevOps & Agile Culture · Product IA
 
 ### 📫 Vamos conversar
 
