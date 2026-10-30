@@ -1,4 +1,4 @@
-## Olá, eu sou a Tamy 👋
+## Olá, eu me chamo Tamy 👋
 
 Gosto de ver ideias saírem do papel e virarem soluções que ajudam pessoas de verdade.
 
